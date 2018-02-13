@@ -13,7 +13,7 @@ breadcrumb:
 ---
 
 
-## Ministerin: [Katarina Barley](/ministerium/minister/)
+## Ministerin: [Katarina Barley](/ministerium/ministerin/)
 
 ---
 
